@@ -1,8 +1,6 @@
 # WebServerClient
 
-
-# WebServer
-Names:
+Authors:
 Jonathan Haller,
 Meir Jacobs,
 Charles Vadnai 
