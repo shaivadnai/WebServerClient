@@ -1,5 +1,7 @@
 # WebServerClient
 
+Written as part of the Operating Systems course (COM 3610)
+
 Authors:
 Jonathan Haller,
 Meir Jacobs,
